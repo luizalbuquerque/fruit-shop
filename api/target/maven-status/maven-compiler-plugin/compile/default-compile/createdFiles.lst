@@ -1,0 +1,13 @@
+fruit\shop\api\entity\ReceiptEntity.class
+github\com\luizalbuquerque\fruitshop\resource\OfferResource.class
+fruit\shop\api\entity\ItemEntity.class
+fruit\shop\api\resource\ItemResource.class
+fruit\shop\api\ApiApplication.class
+fruit\shop\api\repository\ItemRepository.class
+fruit\shop\api\ServletInitializer.class
+github\com\luizalbuquerque\fruitshop\service\OfferService.class
+github\com\luizalbuquerque\fruitshop\resource\ReceiptResource.class
+fruit\shop\api\entity\OfferEntity.class
+fruit\shop\api\service\ItemService.class
+fruit\shop\api\service\impl\ItemServiceImpl.class
+github\com\luizalbuquerque\fruitshop\service\ReceiptService.class
